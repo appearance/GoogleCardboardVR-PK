@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PeterKoch\Gaze\PKGazeInputModule.cs">
+    <Files>
+      <File FileName="Assets\Cardboard\Scripts\GazeInputModule.cs" Line="67" Column="52" />
+      <File FileName="Assets\Cardboard\Scripts\UI\CardboardReticle.cs" Line="21" Column="61" />
+      <File FileName="Assets\Cardboard\Scripts\UI\ICardboardPointer.cs" Line="34" Column="1" />
+      <File FileName="Assets\PeterKoch\Gaze\PKGazeInputModule.cs" Line="72" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
